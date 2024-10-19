@@ -88,10 +88,10 @@ global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user
 
 /*=========== WATERMARK ===========*/
 // BOLEH DI EDIT ASALKAN JANGAN ADA SIMBOL YANG DI HAPUS
-global.wm = 'XMYULA' // Opsional boleh ganti atau tidak 
-global.author = 'XM4ZE' // Opsional boleh ganti atau tidak 
-global.stickpack = 'XMYULA' // Opsional boleh ganti atau tidak 
-global.stickauth = 'XM4ZE' // Opsional boleh ganti atau tidak 
+global.wm = 'CHIYO' // Opsional boleh ganti atau tidak 
+global.author = 'CHIYO' // Opsional boleh ganti atau tidak 
+global.stickpack = 'MADE BY' // Opsional boleh ganti atau tidak 
+global.stickauth = 'CHIYO' // Opsional boleh ganti atau tidak 
 
 
 
